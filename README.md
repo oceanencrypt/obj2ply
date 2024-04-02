@@ -5,7 +5,7 @@ Convert .obj file format to .ply file format with vertex colors.
 
 ```
 git clone https://github.com/nabeel3133/file-converter-.obj-to-.ply.git
-cd file-converter-.obj-to-.ply
+cd obj2ply
 ```
 
 Run the following command
